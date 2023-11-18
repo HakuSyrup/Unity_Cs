@@ -1,5 +1,7 @@
 # ChangeAnimSpeed
-アニメーションの再生速度を変更するUnityエディタ拡張。Tools/HakuShiro/Anim/ChangeAnimSpeedにあります。  
+アニメーションの再生速度を変更するUnityエディタ拡張。  
+Unity標準搭載の速度変更はアニメーションのプレビューに反映されない為 作成しました。  
+Tools/HakuShiro/Anim/ChangeAnimSpeedにあります。  
 animation：元々のアニメーション  
 出力ディレクトリ：出力先。  
 倍率：出力倍率。  
